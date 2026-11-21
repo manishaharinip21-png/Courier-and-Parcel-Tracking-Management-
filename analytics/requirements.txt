@@ -1,0 +1,1 @@
+pandas>=2.2\nnumpy>=2.0\nmatplotlib>=3.9\nsqlalchemy>=2.0\npsycopg2-binary>=2.9\n
